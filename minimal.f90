@@ -1,5 +1,6 @@
 ! compiled by
-! gfortran minimal.f90 module_practice.f90
+! gfortran  module_practice.f90 minimal.f90
+!  (the order of files matters in the initial compile)
 
 program main
   use myfuncs ! use comes within program
